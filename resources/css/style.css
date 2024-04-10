@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Set background color for the entire page */
+body {
+    background-color: black;
+}
+
+/* Style the heading */
+h1 {
+    color: white;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
